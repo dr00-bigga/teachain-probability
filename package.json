@@ -1,0 +1,25 @@
+{
+  "name": "teachain-probability",
+  "version": "1.0.0",
+  "description": "A probability calculator for Teachain operations, helping users assess and manage risks effectively.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dr00-bigga/teachain-probability"
+  },
+  "author": "dr00-bigga",
+  "license": "MIT",
+  "dependencies": {
+    "teachain-inspector-tool": "1.0.0",
+    "teachain-probability": "1.0.0",
+    "moment": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "mocha": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "request": "1.0.0",
+    "truffle": "1.0.0"
+  }
+}
